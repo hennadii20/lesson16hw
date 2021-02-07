@@ -79,6 +79,7 @@ body {
     padding-top: 10px;
 }
 } 
+
     @media (min-width: 992px) and (max-width: 1200px){
     
 .our__gallery {
@@ -105,7 +106,7 @@ body {
 }
 
 source {
-        margin: 25px;
+    margin: 25px;
 }
 }
     
@@ -122,9 +123,9 @@ source {
 .our__gallery__box{
     display: flex;
     justify-content: space-between;
-    width: 1200px;
+    width: 1250px;
     flex-wrap: wrap;
-    margin: 20px auto;
+    margin: 10px auto;
 }
     
 .box__column{
