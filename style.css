@@ -123,7 +123,7 @@ source {
 .our__gallery__box{
     display: flex;
     justify-content: space-between;
-    width: 1250px;
+    width: 1190px;
     flex-wrap: wrap;
     margin: 10px auto;
 }
